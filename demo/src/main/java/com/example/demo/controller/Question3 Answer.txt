@@ -1,0 +1,5 @@
+1.First we have to secure the api's.
+2.In spring Boot by using spring security we can secure our end points.
+3. We can also ensure the different kind of authentication and authorization to our api's.
+4.Use a strong authentication and authorization solution to secure api's
+5. By using validation.
